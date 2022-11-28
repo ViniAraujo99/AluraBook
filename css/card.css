@@ -36,7 +36,6 @@
 .card__text {
     grid-area: text;
     font-size: 14px;
-    width: 80%;
 }
 
 .card__btn {
