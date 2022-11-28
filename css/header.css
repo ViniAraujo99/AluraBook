@@ -37,12 +37,8 @@
     background-color: var(--dark-blue);
 }
 
-.container__img:first-child {
-    padding: 1em;
-}
-
 .container__img {
-    padding: 0.5em;
+    padding: 0.25em;
 }
 
 .container__link {
