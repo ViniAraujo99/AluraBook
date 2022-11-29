@@ -27,7 +27,7 @@
 
 .banner__search::placeholder {
     color: var(--white);
-    background-position: 3em;
+    background-position: 2em;
     text-align: center;
     font-family: var(--font);
     background: url(../img/Pesquisa.svg) no-repeat;
