@@ -1,11 +1,10 @@
-# AluraBook
-Projeto feito durante o curso de responsividade com mobile-first da Alura.
+# **[AluraBook](https://viniaraujo99.github.io/AluraBook/)**
 
-**Site: [AluraBook](https://viniaraujo99.github.io/AluraBook/)**
+Projeto feito durante o curso de responsividade com mobile-first da Alura.
 
 Responsividade: 428px | 1024px | 1440px
 
 ---
-# Requisição de API (ViaCEP)
+## Requisição de API (ViaCEP)
 Validação do CEP e tratamento de erros.
 Realizado durante o curso sobre 'Consumo e tratando dados de uma API' da Alura
